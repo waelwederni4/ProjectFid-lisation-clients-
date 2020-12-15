@@ -10,6 +10,7 @@ contexte de l’application.
 ![Ajoutercompte2](https://user-images.githubusercontent.com/38885637/102009693-817fd200-3d39-11eb-9975-9c28c0d56554.PNG)
 ![alimentercompte1](https://user-images.githubusercontent.com/38885637/102009714-9eb4a080-3d39-11eb-8ee1-7c7573581314.PNG)
 ![alimentercompte21](https://user-images.githubusercontent.com/38885637/102009732-b724bb00-3d39-11eb-908f-681557f2a685.PNG)
+![alimentercompte2](https://user-images.githubusercontent.com/38885637/102219115-4ddeac80-3edf-11eb-8eb3-47ac8161dbb9.PNG)
 ![alimentercompte20](https://user-images.githubusercontent.com/38885637/102009738-c86dc780-3d39-11eb-8a3e-ae3e707a975c.PNG)
 ![alimentercompte](https://user-images.githubusercontent.com/38885637/102009705-93617500-3d39-11eb-9fe7-0b73221dc82b.PNG)
 ![alimentercompte4](https://user-images.githubusercontent.com/38885637/102009749-d885a700-3d39-11eb-9fb0-d3bd59de6f7a.PNG)
